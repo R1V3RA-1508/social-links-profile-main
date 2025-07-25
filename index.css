@@ -1,0 +1,88 @@
+body{
+    background: hsl(0, 0%, 8%)
+}
+.name{
+    color: hsl(0, 0%, 100%);
+}
+.card{
+    background: hsl(0, 0%, 12%);
+    width: 300px;
+    height: 450px;
+    align-items: center;
+}
+.card-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    padding-bottom: 5px;
+}
+.photo{
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 10px;
+}
+.loc{
+    color: hsl(75, 94%, 57%);
+}
+.desc{
+    padding: 10px 0;
+    color: hsl(0, 0%, 60%)
+}
+.github{
+    background: hsl(0, 0%, 20%);
+    padding: 5px;
+    width: 250px;
+    color: white;
+}
+.github:hover{
+    color: hsl(0, 0%, 20%);
+    background: hsl(75, 94%, 57%);
+    transition: 0.5s;
+}
+.frontend-mentor{
+    background: hsl(0, 0%, 20%);
+    padding: 5px;
+    width: 250px;
+    color: white;
+    margin: 10px;
+}
+.frontend-mentor:hover{
+    color: hsl(0, 0%, 20%);
+    background: hsl(75, 94%, 57%);
+    transition: 0.5s;
+}
+.linkedin{
+    background: hsl(0, 0%, 20%);
+    padding: 5px;
+    width: 250px;
+    color: white;
+}
+.linkedin:hover{
+    color: hsl(0, 0%, 20%);
+    background: hsl(75, 94%, 57%);
+    transition: 0.5s;
+}
+.twitter{
+    background: hsl(0, 0%, 20%);
+    padding: 5px;
+    width: 250px;
+    color: white;
+    margin: 10px;
+}
+.twitter:hover{
+    color: hsl(0, 0%, 20%);
+    background: hsl(75, 94%, 57%);
+    transition: 0.5s;
+}
+.instagram{
+    background: hsl(0, 0%, 20%);
+    padding: 5px;
+    width: 250px;
+    color: white;
+}
+.instagram:hover{
+    color: hsl(0, 0%, 20%);
+    background: hsl(75, 94%, 57%);
+    transition: 0.5s;
+}
